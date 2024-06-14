@@ -12,7 +12,7 @@ const Todo = () => {
 
   return (
     <>
-      <div className='flex justify-center h-screen items-center bg-gradient-to-r from-violet-500 to-fuchsia-500 container'>
+      <div className="flex justify-center h-screen items-center container overflow bg-[url('https://images.pexels.com/photos/4195401/pexels-photo-4195401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')]">
         <div className="bg-white md:h-[600px] md:w-96 rounded-xl w-80 h-[500px]">
           <div className="h-12 bg-slate-200 items-center flex justify-center rounded">
             <h2 className="text-black font-semibold text-lg">TODO APP</h2>
